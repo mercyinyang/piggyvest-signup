@@ -1,2 +1,2 @@
-# temitechy.github.io
+# FRONTEND
 HTML/CSS Task 2
