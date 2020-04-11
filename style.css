@@ -53,6 +53,7 @@ a {
     font-size: 24px;
     align-items: center;
     padding: 0px 35px;
+
 }
 
 .text-one{
@@ -142,4 +143,24 @@ select option {
     border-bottom-right-radius: 10px;
     border: none;
     font-weight: bold;
+}
+
+
+@media screen and (max-width: 601px) {
+  .big-text {
+    
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 22px;
+  }
+
+  .text-one{
+    padding-left: 2px;
+    padding-right: 2px;
+    font-size: 12px;
+  }
+
+  body{
+      background-image: none;
+  }
 }
