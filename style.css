@@ -152,12 +152,14 @@ select option {
     padding-left: 2px;
     padding-right: 2px;
     font-size: 22px;
+    text-align: center;
   }
 
   .text-one{
-    padding-left: 2px;
-    padding-right: 2px;
-    font-size: 12px;
+    text-align: center;
+    font-size: 13px;
+    padding-left: 1px;
+    padding-right: 1px;
   }
 
   body{
